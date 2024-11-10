@@ -1,0 +1,17 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+_site/
+.jekyll-cache/
+
+# Ignore Ruby dependencies
+vendor/bundle/
+Gemfile.lock
+
+# Logs and temporary files
+*.log
+
+# Ignore Macbook files
+.DS_Store
